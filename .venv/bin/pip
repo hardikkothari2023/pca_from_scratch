@@ -1,4 +1,4 @@
-#!/home/student/nlp_project/pca_from_scratch/.venv/bin/python3
+#!/home/aniket/AIML_HA_JI/pca_from_scratch/.venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
